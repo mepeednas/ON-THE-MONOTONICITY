@@ -1,0 +1,2 @@
+# ON-THE-MONOTONICITY-OF-HECKE-L-FUNCTIONS-AND-THE-VICTOR-MILLER-BASIS
+This repository contains the Sagemath codes used for the development of the manuscript ON THE MONOTONICITY OF HECKE L-FUNCTIONS AND THE VICTOR-MILLER BASIS
