@@ -10,4 +10,4 @@ snippet_03_section3.2_Fourier_dim_3.py: Generates the exact Fourier coefficients
 
 snippet_04_section3.2_quadeqns_dim_3.py: Performs the exact algebraic operations (O1-O4) to generate the cubic polynomials for any weight k where \dim S_k=3.
 
-snippet_05-snippet_10: Uses SageMath's internal solvers to numerically verify the exact roots of the cubic polynomials for weights 36, 40, 42, 44, 46, and 50.
+snippet_05-snippet_10: Uses SageMath's internal solvers to numerically determine the roots of the cubic polynomials for weights 36, 40, 42, 44, 46, and 50. These files are not necessary for the manuscript and may be ommitted.
